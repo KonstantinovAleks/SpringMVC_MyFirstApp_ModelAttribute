@@ -1,0 +1,15 @@
+# video8
+
+### Description of the project
+    Проект сделал по видео:
+        Alishev -> Spring MVC -> "2. Spring MVC. Первое приложение."
+        Alishev -> Spring Mvc -> "3. Spring MVC. Конфигурация с помощью Java кода."
+        Alishev -> Spring Mvc -> "4. Spring MVC. Контроллеры. Аннотация @Controller."
+        Alishev -> Spring Mvc -> "6. Spring MVC. Параметры GET запроса. Аннотация @RequestParam."
+        Alishev -> Spring Mvc -> "8. Spring MVC. CRUD, REST, Паттерн DAO (Data Access Object)."
+
+### Entry point
+    http://localhost:8080/people
+
+### Сделано
+         - отображение списка людей и переход по каждому из них
