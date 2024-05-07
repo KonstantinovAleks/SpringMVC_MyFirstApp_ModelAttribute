@@ -11,6 +11,7 @@
 
 ### Entry point
     http://localhost:8080/people
+    http://localhost:8080/people/new
 
 ### Сделано
          - отображение списка людей и переход по каждому из них
