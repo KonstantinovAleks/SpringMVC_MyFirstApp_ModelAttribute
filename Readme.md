@@ -1,4 +1,4 @@
-# video8
+# video9
 
 ### Description of the project
     Проект сделал по видео:
@@ -7,9 +7,11 @@
         Alishev -> Spring Mvc -> "4. Spring MVC. Контроллеры. Аннотация @Controller."
         Alishev -> Spring Mvc -> "6. Spring MVC. Параметры GET запроса. Аннотация @RequestParam."
         Alishev -> Spring Mvc -> "8. Spring MVC. CRUD, REST, Паттерн DAO (Data Access Object)."
+        Alishev -> Spring Mvc -> "9. Аннотация @ModelAttribute. HTML Формы (Thymeleaf)."
 
 ### Entry point
     http://localhost:8080/people
 
 ### Сделано
          - отображение списка людей и переход по каждому из них
+         - добавление нового человека в список
